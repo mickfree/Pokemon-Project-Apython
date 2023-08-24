@@ -37,7 +37,7 @@ Feel free to contribute, share your insights, or use this project as a reference
 ## Dependencies
 
 - Python 3.x
-- Libraries: Numpy, Pandas, Matplotlib, and Scipy
+- Libraries: Numpy, Pandas, Matplotlib
 
 ## License
 
