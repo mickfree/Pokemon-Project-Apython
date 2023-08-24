@@ -16,8 +16,6 @@ In this project, we aim to answer key questions and gain insights into various a
 
 ## Repository Contents
 
-- `script.py`: Python script containing data analysis and visualization code.
-- `colors.py`: Python script defining custom colors for plots.
 - `All_Pokemon.csv`: Dataset containing attributes of over 1000 Pokémon species.
 - `notebook.ipynb`: Jupyter Notebook containing the complete data analysis process.
 
@@ -30,9 +28,9 @@ In this project, we aim to answer key questions and gain insights into various a
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/pokemon-insights.git`
-2. Navigate to the project directory: `cd pokemon-insights`
-3. Run the `script.py` or explore the `notebook.ipynb` to see the complete analysis.
+1. Clone this repository
+2. Navigate to the project directory
+3. explore the `notebook.ipynb` to see the complete analysis.
 
 Feel free to contribute, share your insights, or use this project as a reference for your own data analysis projects!
 
