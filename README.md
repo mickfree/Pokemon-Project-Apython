@@ -1,7 +1,7 @@
 # Pokémon Insights Project
 
 
-Welcome to the Pokémon Insights project repository! This project is an in-depth exploration of Pokémon attributes using data analysis techniques. Through Python scripts and Jupyter Notebook, we delve into the intricate world of Pokémon, uncovering insights, correlations, and patterns within their attributes.
+Welcome to the Pokémon Insights project repository! This project is an in-depth exploration of Pokémon attributes using data analysis techniques. Through Google Colab, we delve into the intricate world of Pokémon, uncovering insights, correlations, and patterns within their attributes.
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ In this project, we aim to answer key questions and gain insights into various a
 ## Repository Contents
 
 - `All_Pokemon.csv`: Dataset containing attributes of over 1000 Pokémon species.
-- `notebook.ipynb`: Jupyter Notebook containing the complete data analysis process.
+- `pokemondata.ipynb`: Jupyter Notebook containing the complete data analysis process.
 
 ## Project Structure
 
@@ -30,7 +30,7 @@ In this project, we aim to answer key questions and gain insights into various a
 
 1. Clone this repository
 2. Navigate to the project directory
-3. explore the `notebook.ipynb` to see the complete analysis.
+3. explore the `pokemondata.ipynb` to see the complete analysis.
 
 Feel free to contribute, share your insights, or use this project as a reference for your own data analysis projects!
 
